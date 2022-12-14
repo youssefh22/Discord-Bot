@@ -1,0 +1,1 @@
+In this milestone, I will create a Discord bot that will serve as a bridge interface between my database and the user. The main goal of this milestone is to transform the data (output from my business rules) into knowledge to meet the user needs.

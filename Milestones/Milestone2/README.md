@@ -1,0 +1,1 @@
+The objetive of this milestone is to finish the modeling and architecture of my database, and to test my database model against a set of self made business requirements.
